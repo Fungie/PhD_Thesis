@@ -10,3 +10,5 @@ There have been several papers published from this thesis:
 2. [Differentiating defect and basal plane contributions to the surface energy of graphite using inverse gas chromatography, Chemistry of Materials, 2016.](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b02721)
 3. [Understanding the dispersion and assembly of Bacterial Cellulose in Organic Solvents, Biomacromolecules, 2016.](http://pubs.acs.org/doi/abs/10.1021/acs.biomac.6b00278)
 4. [Production of Ni (OH) 2 nanosheets by liquid phase exfoliation: from optical properties to electrochemical applications, Journal of Materials Chemistry A, 2016.](http://pubs.rsc.org/en/content/articlelanding/2016/ta/c6ta02811j#!divAbstract)
+
+Feel free to add me on [Researchgate](https://www.researchgate.net/profile/Auren_Ferguson).
